@@ -1,1 +1,62 @@
 /* Your CSS here. */
+.box {
+    padding: 20px;
+    margin: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 70px;
+    text-align: left;
+    color: white;
+    height: 600px;
+    width: 800px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.grey{
+    background-color: darkgrey;
+}
+
+.picture {
+    width: 150px;
+    height: 150px;
+}
+
+#outer
+{
+    width:100%;
+    text-align: center;
+}
+.inner
+{
+    display: inline-block;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
